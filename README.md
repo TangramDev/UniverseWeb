@@ -1,2 +1,2 @@
 # UniverseWeb
-Universe Resource
+Universe Web Resource
